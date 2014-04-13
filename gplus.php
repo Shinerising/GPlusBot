@@ -14,7 +14,7 @@
 	header("Content-type:application/xml; charset=utf-8");
 	ini_set('memory_limit', '64M');
 		
-	require_once 'gplusupload.php';
+	require_once 'gplusupload.php';	//this file is used to upload images
 	
 /*
  * REQUIRED PARAMETERS

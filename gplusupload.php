@@ -51,7 +51,7 @@ $filename = $newfname;
 // We use the albumId of 'default' to indicate that we'd like to upload
 // this photo into the 'drop box'.  This drop box album is automatically 
 // created if it does not already exist.
-$albumId = "5916364461315830273";
+$albumId = "";
 
 $fd = $gp->newMediaFileSource($filename);
 $fd->setContentType("image/".substr(strrchr($filename, '.'), 1));
