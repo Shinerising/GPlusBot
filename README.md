@@ -5,15 +5,15 @@ None of Google+ official API is used(except the old Picasa Webalbum API)
 You must type your Google+ ID and passward to make the page work, so it might NOT BE SAFE.
 
 This Bot Can:
-	Share your text post to the default circle("Your Circles") in Google+
-	Share your text with one image(the image will be uploaded to Google Photos)
+	Share your text post to the default circle("Your Circles") in Google+;
+	Share your text with one image(the image will be uploaded to Google Photos);
 This Bot Cannot:
-	Share post to a custom circle
-	Share more than one photo at the same time
-	Share post with one link that need to be previewed
-	Share post to community
-	Share post to pages
-	Edit, comment and plus-one post
+	Share post to a custom circle;
+	Share more than one photo at the same time;
+	Share post with one link that need to be previewed;
+	Share post to community;
+	Share post to pages;
+	Edit, comment and plus-one post;
 	
 Google will check the location where the post is sent from, so you may get a notification about unusual location report from Google after you used this program. Just do as Google told you.
 	
